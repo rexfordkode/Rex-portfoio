@@ -10,6 +10,7 @@ export default function componentName() {
             <h1 className="text-center">Portfolio</h1>
             <div className="row">
                 <div className="col-lg-4 mt-4 ">
+                <div className="card portfolioContent">
                 <img class="card-img-top" src="/images/flex-app.png" alt="Cardimage"  style={{ width:"100%" }} />
                         <div className="card-body">
                             <h4 className="card-title">FlexBox Todo</h4>
@@ -18,9 +19,10 @@ export default function componentName() {
                                 <a href="https://github.com/rexfordkode/Flexbox-Todo-App.git" className="btn btn-dark">Check</a>
                             </div>
                         </div>
+                        </div>
                     </div>
-                    <div className="col-lg-4 mt-4">
-                    <div className="card portfolioContent">
+                <div className="col-lg-4 mt-4">
+               <div className="card portfolioContent">
                         <img className="card-img-top" src="/images/quote-api.jpg" alt="Cardimage"  style={{ width:"100%" }} /> 
                         <div className="card-body">
                             <h4 className="card-title">Quote API</h4>

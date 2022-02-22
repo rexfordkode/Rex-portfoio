@@ -94,3 +94,15 @@
   width: 500;
   height: 50x;
 }
+.about{
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.about ul{
+  list-style: none;
+}
+.experience{
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif
+}

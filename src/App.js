@@ -7,9 +7,7 @@ import Footer from './components/Footer';
 import Contact from './components/Contact'
 import './components/style.css';
 
-
 import './App.css';
-import './script'
 
 function App() {
 

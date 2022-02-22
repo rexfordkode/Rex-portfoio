@@ -6,13 +6,13 @@ export default function AboutMe() {
     // <!-- about section-->
     <section id="about">
         <div className="container mt-4 pt-4">
-            <h1 className="text-center">About Me</h1>
+            <h1 className="text-center" style={{fontFamily:'Raleway'}} >About Me</h1>
             <div className="row mt-4">
                 <div className="col-lg-4">
                     <img src="/images/about.jpeg" className="imageAboutPage" alt="Rexford" />
                 </div>
 
-                <div className="col-lg-8">
+                <div className="col-lg-8 about">
                     <p> 
                         Am Rexford, a person who is positive about every aspect of life.
                          There are many things I like to do, to see, and to experience.
@@ -23,7 +23,7 @@ export default function AboutMe() {
                   
                     </p>
                     <div className="row mt-3">
-                        <div className="col-md-6">
+                        <div className="col-md-8">
                             <ul>
                                 <li>Name: Rexford</li>
                                 <li>Hubby Sleeping</li>
@@ -33,7 +33,7 @@ export default function AboutMe() {
                         </div>
                        
                     </div>
-                    <div className="row mt-3">
+                    <div className="row mt-3 experience">
                         <p> I am a solution provider for all your business needs. A little over a decade in business analytical skills.
                             I am the idea machine, come speak to me and let brain storm together. I am looking forward to bring technology literacy to the average Ghanaian child. 
                             I am a Tech advocacy for technology for all because I don't believe formal education is the only way to get yourself educated in the tech ecosystem I believe any one who can read and write must 

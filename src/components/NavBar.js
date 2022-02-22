@@ -1,6 +1,7 @@
 import React from 'react';
 import '../script'
 import  './style.css'
+import 'react-bootstrap'
 
 export default function NavBar() {
 

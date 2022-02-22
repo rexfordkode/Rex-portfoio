@@ -9,7 +9,7 @@ export default function componentName() {
         <div className="container mt-3">
             <h1 className="text-center">Portfolio</h1>
             <div className="row">
-                <div className="col-lg-4 mt-4">
+                <div className="col-lg-4 mt-4 ">
                 <img class="card-img-top" src="/images/flex-app.png" alt="Cardimage"  style={{ width:"100%" }} />
                         <div className="card-body">
                             <h4 className="card-title">FlexBox Todo</h4>

@@ -10,7 +10,7 @@ export default function componentName() {
             <h1 className="text-center">Portfolio</h1>
             <div className="row">
                 <div className="col-lg-4 mt-4">
-                <img class="card-img-top" src={"/images/portfolioImage1.jpg"} alt="Cardimage"  style={{ width:"100%" }} />
+                <img class="card-img-top" src="/images/flex-app.png" alt="Cardimage"  style={{ width:"100%" }} />
                         <div className="card-body">
                             <h4 className="card-title">FlexBox Todo</h4>
                             <p className="card-text">This Project was build with HTML5, CSS & JavaScript</p>

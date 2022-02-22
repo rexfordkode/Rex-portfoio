@@ -1,11 +1,10 @@
 import React from 'react';
-import '../script'
 import  './style.css'
-import 'react-bootstrap'
+import '../script'
+
 
 export default function NavBar() {
-
-
+    
   return (
     <>
         {/* <!-- navbar --> */}
@@ -37,7 +36,7 @@ export default function NavBar() {
             </div>
         </div>
     </nav>
-    {/* <!-- main banner --> */}
+
     </>
   );
 }

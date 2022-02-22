@@ -1,0 +1,47 @@
+.mystyle {
+  overflow: hidden;
+  color: red;
+  max-width: 100%;
+  width: 500px;
+  height: 500px;
+  font-family: Sans-Serif;
+}
+
+#gmapcanvas {
+  height: 100%;
+  max-width: 100%;
+  max-width: none !important;
+  background: non !important;
+}
+
+
+.iframe {
+  height: 10%;
+  width: 100%;
+  border: 0;
+}
+
+img {
+  max-width: none;
+}
+.contact-form .form-control::placeholder {
+  color: #aeb4b9;
+  font-weight: 500;
+  opacity: 1;
+}
+#contact-me button{
+    align-items: center;
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+

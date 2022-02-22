@@ -26,7 +26,7 @@ export default function AboutMe() {
                         <div className="col-md-6">
                             <ul>
                                 <li>Name: Rexford</li>
-                                <li>Age: 18</li>
+                                <li>Hubby Sleeping</li>
                                 <li>Occupation: Web Developer</li>
                                 <li> Location : Ghana</li>
                             </ul>

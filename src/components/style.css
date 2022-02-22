@@ -6,9 +6,10 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('C:\xampp\htdocs\WorkBook\Portfolio-React\portfolio\public\images\rexford.jpg');
+    background: url('/public/images/rexford.jpg');
     background-size:cover;
     position:relative;
+
 }
 /* text css above hero image*/
 .hero_title {

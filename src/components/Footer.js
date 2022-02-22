@@ -5,7 +5,7 @@ export default function Footer() {
     // <!-- footer section-->
     <footer id="footer">
         <div className="container-fluid">
-            {/* <!-- social media icons --> */}
+      
             <div className="social-icons mt-4">
                 <a href="https://www.facebook.com/" target="_blank"><i className="fab fa-facebook"></i></a>
                 <a href="https://www.instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a>

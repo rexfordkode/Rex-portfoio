@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './style.css'
 export default function AboutMe() {
   return (
     
@@ -9,7 +9,7 @@ export default function AboutMe() {
             <h1 className="text-center">About Me</h1>
             <div className="row mt-4">
                 <div className="col-lg-4">
-                    <img src="images/about.jpeg" className= "imageAboutPage" alt=""/>
+                    <img src="/images/about.jpeg" className="imageAboutPage" alt="Rexford" />
                 </div>
 
                 <div className="col-lg-8">

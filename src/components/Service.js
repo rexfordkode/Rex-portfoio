@@ -1,9 +1,10 @@
 import React from 'react';
+import  './style.css'
 
 export default function Service() {
   return (
     <>
-        <!-- services section-->
+        {/* <!-- services section--> */}
     <section id="services">
         <div class="container">
             <h1 class="text-center">Services</h1>
